@@ -414,10 +414,6 @@ img {
   .about-center {
     grid-template-columns: 1fr;
   }
-  .about p{
-    font-size: 1.5m;
-    text-align: justify;
-  }
 }
 
 /* services */
